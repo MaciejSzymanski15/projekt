@@ -1,0 +1,4 @@
+﻿  gameplay.cpp
+C:\Users\smaci\Desktop\PROJEKT_SAPER\saper\saper\gameplay.cpp(27,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\smaci\Desktop\PROJEKT_SAPER\saper\saper\gameplay.cpp(27,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  saper.vcxproj -> C:\Users\smaci\Desktop\PROJEKT_SAPER\saper\x64\Debug\saper.exe
